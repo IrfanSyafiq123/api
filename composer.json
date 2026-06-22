@@ -1,0 +1,11 @@
+{
+    "name": "api",
+    "description": "Backend API",
+    "type": "project",
+    "require": {
+        "php": ">=8.0",
+        "ext-mysqli": "*",
+        "ext-json": "*",
+        "ext-mbstring": "*"
+    }
+}
